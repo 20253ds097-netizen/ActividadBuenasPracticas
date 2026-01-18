@@ -1,7 +1,5 @@
 import java.util.Scanner;
-
 public class Main {
-
     public static void main(String[] args) {
         int numeroLimite = pedirEntero();
         int resultadoSuma = sumarHastaN(numeroLimite);
